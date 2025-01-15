@@ -14,20 +14,20 @@ Welcome to my collection of Leetcode solutions! Here you'll find my approaches a
 
 * [🚀 Leetcode Solutions](#-leetcode-solutions)
 * [🛠️ Problem-Solving Approach](#️-problem-solving-approach)
-    *   [🧠 Understand the Problem](#-understand-the-problem-)
+    *   [🧠 Understand the Problem](#-understand-the-problem)
     *   [📝 Break down the problem and brainstorm solutions](#-break-down-the-problem-and-brainstorm-solutions)
     *   [🧩 Identify the Problem Type](#-identify-the-problem-type)
     *   [🛠️ Choose the Right Data Structures](#-choose-the-right-data-structures)
-    *   [✍️ Draft a Direct Solution (Pseudocode)](#-draft-a-direct-solution-pseudocode)
+    *   [✍️ Draft a Direct Solution (Pseudocode)](#-draft-a-direct-solution-(pseudocode))
     *   [⚡ Optimize the Solution](#-optimize-the-solution)
     *   [🧪 Test with Pseudocode](#-test-with-pseudocode)
     *   [🧑‍💻 Implement the Solution in Code](#-implement-the-solution-in-code)
     *   [🔧 Refactor for Clarity](#-refactor-for-clarity)
-    *   [✅ Submit and Review](#-submit-and-review-)
-    *   [📘 Learn and Practice](#-learn-and-practice-📘)
-    *   [🔄 Iterate and Improve](#iterate-and-improve-)
-* [📝 Note](#-note-)
-* [💻 Solutions](#solutions)
+    *   [✅ Submit and Review](#-submit-and-review)
+    *   [📘 Learn and Practice](#-learn-and-practice)
+    *   [🔄 Iterate and Improve](#-iterate-and-improve)
+* [📝 Note](#-note)
+* [💻 Solutions](#-solutions)
 
 ---
 

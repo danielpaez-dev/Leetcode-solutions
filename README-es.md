@@ -12,22 +12,25 @@
 
 ## Índice
 
-* [🚀 Soluciones Leetcode](#🚀-soluciones-leetcode)
-* [🛠️ Enfoque de resolución de problemas](#️🛠️-enfoque-de-resolucion-de-problemas)
-    * [🧠 Comprender el problema](#🧠-comprender-el-problema)
-    * [📝 Desglosar el problema y hacer una lluvia de ideas para encontrar soluciones](#📝-desglosar-el-problema-y-hacer-una-lluvia-de-ideas-para-encontrar-soluciones)
-    * [🧩 Identificar el tipo de problema](#🧩-identify-the-problem-type)
-    * [🛠️ Elegir las estructuras de datos adecuadas](#🛠️-choose-the-right-data-structures)
-    * [✍️ esbozar una solución directa (pseudocódigo)](#✍️-draft-a-direct-solution-pseudocode)
-    * [⚡ Optimizar la solución](#⚡-optimize-the-solution)
-    * [🧪 Prueba con pseudocódigo](#🧪-prueba-con-pseudocódigo)
-    * [🧑‍💻 Implementa la solución en código](#🧑‍💻-implement-the-solution-in-code)
-    * [🔧 Refactorizar para mayor claridad](#🔧-refactor-for-clarity)
-    * [✅ Enviar y revisar](#✅-submit-and-review)
-    * [📘 Aprender y practicar](#📘-learn-and-practice)
-    * [🔄 Iterar y mejorar](#🔄-iterate-and-improve)
-* [📝 Nota](#📝-nota)
-* [💻 Soluciones](#💻-solutions)
+## Índice
+
+* [🚀 Soluciones Leetcode](#soluciones-leetcode)
+* [🛠️ Enfoque de resolución de problemas](#enfoque-de-resolucion-de-problemas)
+    * [🧠 Comprender el problema](#comprender-el-problema)
+    * [📝 Desglosar el problema y hacer una lluvia de ideas para encontrar soluciones](#desglosar-el-problema-y-hacer-una-lluvia-de-ideas-para-encontrar-soluciones)
+    * [🧩 Identificar el tipo de problema](#identificar-el-tipo-de-problema)
+    * [🛠️ Elegir las estructuras de datos adecuadas](#elegir-las-estructuras-de-datos-adecuadas)
+    * [✍️ Esbozar una solución directa (pseudocódigo)](#esbozar-una-solucion-directa-pseudocodigo)
+    * [⚡ Optimizar la solución](#optimizar-la-solucion)
+    * [🧪 Prueba con pseudocódigo](#prueba-con-pseudocodigo)
+    * [🧑‍💻 Implementar la solución en código](#implementar-la-solucion-en-codigo)
+    * [🔧 Refactorizar para mayor claridad](#refactorizar-para-mayor-claridad)
+    * [✅ Enviar y revisar](#enviar-y-revisar)
+    * [📘 Aprender y practicar](#aprender-y-practicar)
+    * [🔄 Iterar y mejorar](#iterar-y-mejorar)
+* [📝 Nota](#nota)
+* [💻 Soluciones](#soluciones)
+
 
 ---
 
