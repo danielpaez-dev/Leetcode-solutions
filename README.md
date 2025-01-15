@@ -18,7 +18,7 @@ Welcome to my collection of Leetcode solutions! Here you'll find my approaches a
     *   [📝 Break down the problem and brainstorm solutions](#-break-down-the-problem-and-brainstorm-solutions)
     *   [🧩 Identify the Problem Type](#-identify-the-problem-type)
     *   [🛠️ Choose the Right Data Structures](#-choose-the-right-data-structures)
-    *   [✍️ Draft a Direct Solution (Pseudocode)](#-draft-a-direct-solution-(pseudocode))
+    *   [✍️ Draft a Direct Solution (Pseudocode)](#-draft-a-direct-solution-pseudocode)
     *   [⚡ Optimize the Solution](#-optimize-the-solution)
     *   [🧪 Test with Pseudocode](#-test-with-pseudocode)
     *   [🧑‍💻 Implement the Solution in Code](#-implement-the-solution-in-code)

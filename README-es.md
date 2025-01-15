@@ -12,24 +12,23 @@
 
 ## Índice
 
-## Índice
+* [🚀 Soluciones Leetcode](#-soluciones-leetcode)
+* [🛠️ Enfoque de resolución de problemas](#-enfoque-de-resolucion-de-problemas)
+    * [🧠 Comprender el problema](#-comprender-el-problema)
+    * [📝 Desglosar el problema y hacer una lluvia de ideas para encontrar soluciones](#-desglosar-el-problema-y-hacer-una-lluvia-de-ideas-para-encontrar-soluciones)
+    * [🧩 Identificar el tipo de problema](#-identificar-el-tipo-de-problema)
+    * [🛠️ Elegir las estructuras de datos adecuadas](#-elegir-las-estructuras-de-datos-adecuadas)
+    * [✍️ Esbozar una solución directa (pseudocódigo)](#-esbozar-una-solucion-directa-pseudocodigo)
+    * [⚡ Optimizar la solución](#-optimizar-la-solucion)
+    * [🧪 Prueba con pseudocódigo](#-prueba-con-pseudocodigo)
+    * [🧑‍💻 Implementar la solución en código](#-implementar-la-solucion-en-codigo)
+    * [🔧 Refactorizar para mayor claridad](#-refactorizar-para-mayor-claridad)
+    * [✅ Enviar y revisar](#-enviar-y-revisar)
+    * [📘 Aprender y practicar](#-aprender-y-practicar)
+    * [🔄 Iterar y mejorar](#-iterar-y-mejorar)
+* [📝 Nota](#-nota)
+* [💻 Soluciones](#-soluciones)
 
-* [🚀 Soluciones Leetcode](#soluciones-leetcode)
-* [🛠️ Enfoque de resolución de problemas](#enfoque-de-resolucion-de-problemas)
-    * [🧠 Comprender el problema](#comprender-el-problema)
-    * [📝 Desglosar el problema y hacer una lluvia de ideas para encontrar soluciones](#desglosar-el-problema-y-hacer-una-lluvia-de-ideas-para-encontrar-soluciones)
-    * [🧩 Identificar el tipo de problema](#identificar-el-tipo-de-problema)
-    * [🛠️ Elegir las estructuras de datos adecuadas](#elegir-las-estructuras-de-datos-adecuadas)
-    * [✍️ Esbozar una solución directa (pseudocódigo)](#esbozar-una-solucion-directa-pseudocodigo)
-    * [⚡ Optimizar la solución](#optimizar-la-solucion)
-    * [🧪 Prueba con pseudocódigo](#prueba-con-pseudocodigo)
-    * [🧑‍💻 Implementar la solución en código](#implementar-la-solucion-en-codigo)
-    * [🔧 Refactorizar para mayor claridad](#refactorizar-para-mayor-claridad)
-    * [✅ Enviar y revisar](#enviar-y-revisar)
-    * [📘 Aprender y practicar](#aprender-y-practicar)
-    * [🔄 Iterar y mejorar](#iterar-y-mejorar)
-* [📝 Nota](#nota)
-* [💻 Soluciones](#soluciones)
 
 
 ---
@@ -117,7 +116,7 @@ Si te sientes atascado o frustrado durante el proceso, plantéate hacer una paus
 Siguiendo este proceso de forma sistemática, me aseguro de que mis soluciones no sólo sean correctas, sino también eficaces y estén bien documentadas.
 He aquí un valioso recurso de un procedimiento similar: [Enlace](https://youtu.be/OTNe0eV8418?si=La9wARw-lW4nyee_)
 
-[Volver al principio](#index)
+[Volver al principio](#-indice)
 
 ## 💻 Soluciones
 
@@ -129,4 +128,4 @@ A continuación se muestra una lista de problemas Leetcode que ya he resuelto. C
 | 1   | [Suma de Dos](https://leetcode.com/problems/Two-Sum/) | [Mi Solución](./problems/1.TwoSum-es.md) | Fácil      |
 
 
-[Volver al principio](#indice)
+[Volver al principio](#-indice)
