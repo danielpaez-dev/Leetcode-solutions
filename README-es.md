@@ -123,7 +123,7 @@ A continuación se muestra una lista de problemas Leetcode que ya he resuelto. C
 
 | #   | Título                                                | Solución                                | Dificultad |
 | --- | ----------------------------------------------------- | --------------------------------------- | ---------- |
-| 1   | [Suma de Dos](https://leetcode.com/problems/Two-Sum/) | [Mi Solución](./solutions/1.Two-Sum.md) | Fácil      |
+| 1   | [Suma de Dos](https://leetcode.com/problems/Two-Sum/) | [Mi Solución](./problems/1.TwoSum-es.md) | Fácil      |
 
 
 [Volver al principio](#indice)

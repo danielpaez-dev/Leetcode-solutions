@@ -123,7 +123,7 @@ Below is a list of Leetcode problems that I have solved. Each entry includes a l
 
 | #   | Title                                             | Solution                               | Difficulty |
 | --- | ------------------------------------------------- | -------------------------------------- | ---------- |
-| 1   | [Two Sum](https://leetcode.com/problems/Two-Sum/) | [My Solution](./solutions/1.Two-Sum.md) | Easy       |
+| 1   | [Two Sum](https://leetcode.com/problems/Two-Sum/) | [My Solution](./problems/1.TwoSum.md) | Easy       |
 
 
 [Back to Top](#index)
