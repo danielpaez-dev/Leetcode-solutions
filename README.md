@@ -1,5 +1,7 @@
 # 🚀 Leetcode Solutions
-![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 [English](./README.md) | [Español](./README-es.md)
@@ -121,8 +123,8 @@ Here is a valuable resource of a similar procedure: [Link](https://youtu.be/OTNe
 Below is a list of Leetcode problems that I have solved. Each entry includes a link to the problem, my solution, and its difficulty level.
 
 
-| #   | Title                                             | Solution                               | Difficulty |
-| --- | ------------------------------------------------- | -------------------------------------- | ---------- |
+| #   | Title                                             | Solution                              | Difficulty |
+| --- | ------------------------------------------------- | ------------------------------------- | ---------- |
 | 1   | [Two Sum](https://leetcode.com/problems/Two-Sum/) | [My Solution](./problems/1.TwoSum.md) | Easy       |
 
 
