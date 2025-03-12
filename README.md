@@ -1,5 +1,7 @@
 # 🚀 Leetcode Solutions
-![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 [English](./README.md) | [Español](./README-es.md)
@@ -12,22 +14,22 @@ Welcome to my collection of Leetcode solutions! Here you'll find my approaches a
 
 ## Index
 
-* [🚀 Leetcode Solutions](#🚀-leetcode-solutions)
-* [🛠️ Problem-Solving Approach](#️🛠️-problem-solving-approach)
-    *   [🧠 Understand the Problem](#🧠-understand-the-problem)
-    *   [📝 Break down the problem and brainstorm solutions](#📝-break-down-the-problem-and-brainstorm-solutions)
-    *   [🧩 Identify the Problem Type](#🧩-identify-the-problem-type)
-    *   [🛠️ Choose the Right Data Structures](#🛠️-choose-the-right-data-structures)
-    *   [✍️ Draft a Direct Solution (Pseudocode)](#✍️-draft-a-direct-solution-pseudocode)
-    *   [⚡ Optimize the Solution](#⚡-optimize-the-solution)
-    *   [🧪 Test with Pseudocode](#🧪-test-with-pseudocode)
-    *   [🧑‍💻 Implement the Solution in Code](#🧑‍💻-implement-the-solution-in-code)
-    *   [🔧 Refactor for Clarity](#🔧-refactor-for-clarity)
-    *   [✅ Submit and Review](#✅-submit-and-review)
-    *   [📘 Learn and Practice](#📘-learn-and-practice)
-    *   [🔄 Iterate and Improve](#🔄-iterate-and-improve)
-* [📝 Note](#📝-note)
-* [💻 Solutions](#💻-solutions)
+* [🚀 Leetcode Solutions](#-leetcode-solutions)
+* [🛠️ Problem-Solving Approach](#️-problem-solving-approach)
+    *   [🧠 Understand the Problem](#-understand-the-problem)
+    *   [📝 Break down the problem and brainstorm solutions](#-break-down-the-problem-and-brainstorm-solutions)
+    *   [🧩 Identify the Problem Type](#-identify-the-problem-type)
+    *   [🛠️ Choose the Right Data Structures](#-choose-the-right-data-structures)
+    *   [✍️ Draft a Direct Solution (Pseudocode)](#-draft-a-direct-solution-pseudocode)
+    *   [⚡ Optimize the Solution](#-optimize-the-solution)
+    *   [🧪 Test with Pseudocode](#-test-with-pseudocode)
+    *   [🧑‍💻 Implement the Solution in Code](#-implement-the-solution-in-code)
+    *   [🔧 Refactor for Clarity](#-refactor-for-clarity)
+    *   [✅ Submit and Review](#-submit-and-review)
+    *   [📘 Learn and Practice](#-learn-and-practice)
+    *   [🔄 Iterate and Improve](#-iterate-and-improve)
+* [📝 Note](#-note)
+* [💻 Solutions](#-solutions)
 
 ---
 
@@ -92,11 +94,11 @@ Here's my step-by-step approach:
    - Simplify complex logic and improve code readability.
    - Add comments to explain key sections of the code.
 
-10. ### ✅ **Submit and Review**
+10. ###  **Submit and Review**✅
     - Submit the solution on Leetcode and create the markdown. It will help to clarify what you've done.
     - **Review and analyze high-rated solutions:** Don't just check if your solution works – actively learn from others! Analyze high-rated solutions to identify alternative approaches, optimizations, and best practices.
 
-11. ### 📘 **Learn and Practice**
+11. ### **Learn and Practice** 📘
     - Study better solutions, focusing on techniques or optimizations you may have missed.
     - Reimplement those solutions to solidify your understanding.
 
@@ -121,8 +123,8 @@ Here is a valuable resource of a similar procedure: [Link](https://youtu.be/OTNe
 Below is a list of Leetcode problems that I have solved. Each entry includes a link to the problem, my solution, and its difficulty level.
 
 
-| #   | Title                                             | Solution                               | Difficulty |
-| --- | ------------------------------------------------- | -------------------------------------- | ---------- |
+| #   | Title                                             | Solution                              | Difficulty |
+| --- | ------------------------------------------------- | ------------------------------------- | ---------- |
 | 1   | [Two Sum](https://leetcode.com/problems/Two-Sum/) | [My Solution](./problems/1.TwoSum.md) | Easy       |
 
 
