@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?logo=github&logoColor=white)](https://github.com/Daniel-Paez-Rojas)
 
 
-## Índice
+## Indice
 
 * [🚀 Soluciones Leetcode](#-soluciones-leetcode)
 * [🛠️ Enfoque de resolución de problemas](#-enfoque-de-resolucion-de-problemas)
@@ -117,16 +117,17 @@ Si te sientes atascado o frustrado durante el proceso, plantéate hacer una paus
 Siguiendo este proceso de forma sistemática, me aseguro de que mis soluciones no sólo sean correctas, sino también eficaces y estén bien documentadas.
 He aquí un valioso recurso de un procedimiento similar: [Enlace](https://youtu.be/OTNe0eV8418?si=La9wARw-lW4nyee_)
 
-[Volver al principio](#-indice)
+[Volver al principio](#indice)
 
 ## 💻 Soluciones
 
 A continuación se muestra una lista de problemas Leetcode que ya he resuelto. Cada entrada incluye un enlace al problema, mi solución y su nivel de dificultad.
 
 
-| #   | Título                                                | Solución                                 | Dificultad |
-| --- | ----------------------------------------------------- | ---------------------------------------- | ---------- |
-| 1   | [Suma de Dos](https://leetcode.com/problems/Two-Sum/) | [Mi Solución](./problems/1.TwoSum-es.md) | Fácil      |
+| #   | Título                                                                                                                      | Solución                                                        | Dificultad |
+| --- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------- |
+| 1   | [Suma de Dos](https://leetcode.com/problems/Two-Sum/)                                                                       | [Mi Solución](./problems/1.TwoSum-es.md)                        | Fácil      |
+| 26  | [Eliminar duplicados de la matriz ordenada](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Mi Solución](./problems/26.RemoveDuplicatesFromSortedArray.md) | Fácil      |
 
 
-[Volver al principio](#-indice)
+[Volver al principio](#indice)
