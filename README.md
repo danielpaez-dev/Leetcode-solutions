@@ -57,8 +57,6 @@ Here's my step-by-step approach:
      - [Figma](https://www.figma.com)
      - [AlgoMonster](https://algo.monster/) - A highly useful tool not just for creating flowcharts, but also for understanding the best data structures, algorithms, and other problem-solving techniques.
 
-   - If you're still having trouble understanding the problem, you could ask tools like [ChatGPT](https://chatgpt.com/) or [Gemini](https://gemini.google.com/app/). They can help you break down the problem and offer alternative perspectives, making it easier to grasp and approach the solution.
-
 3. ### 🧩 **Identify the Problem Type**
     - Categorize the problem: Is it related to **search**, **sorting**, **optimization**, **graph traversal**, or another common type?
     - Identify applicable patterns or techniques: **Sliding window**, **divide and conquer**, **backtracking**, **two pointers**, **dynamic programming**, etc.
@@ -69,7 +67,7 @@ Here's my step-by-step approach:
    - Evaluate the time and space complexities for any scenario needed ([Big O](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)).
    - [This](https://algo.monster/flowchart) is a usefull resource for deciding wich data structure, pattern or algorithm should you use.
 
-   ![Data Structures](./data-structures.png)
+   ![Data Structures](./Data-structures.png)
    Credit to: https://www.softwaretestinghelp.com/data-structures-in-cpp/
 
 5. ### ✍️ **Draft a Direct Solution (Pseudocode)**
@@ -123,10 +121,10 @@ Here is a valuable resource of a similar procedure: [Link](https://youtu.be/OTNe
 Below is a list of Leetcode problems that I have solved. Each entry includes a link to the problem, my solution, and its difficulty level.
 
 
-| #   | Title                                             | Solution                              | Difficulty |
-| --- | ------------------------------------------------- | ------------------------------------- | ---------- |
-| 1   | [Two Sum](https://leetcode.com/problems/Two-Sum/) | [My Solution](./problems/1.TwoSum.md) | Easy       |
-| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [My Solution](./problems/26.RemoveDuplicatesFromSortedArray.md) | Easy       |
+| #   | Title                                                                                                                 | Solution                                                        | Difficulty |
+| --- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------- |
+| 1   | [Two Sum](https://leetcode.com/problems/Two-Sum/)                                                                     | [My Solution](./problems/1.TwoSum.md)                           | Easy       |
+| 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [My Solution](./problems/26.RemoveDuplicatesFromSortedArray.md) | Easy       |
 
 
 [Back to Top](#index)

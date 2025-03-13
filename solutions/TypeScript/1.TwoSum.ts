@@ -1,6 +1,3 @@
-// Only for testing in VSCODE
-import { nums, target } from "./GenerateRandomTargetAndArray";
-
 /*
  * The equation is: a + b = x; => a = current number , b = complement, x = target.
  * - i is the index of the current number (a).
@@ -21,6 +18,3 @@ function twoSum(nums: number[], target: number): number[] {
 
   return [];
 }
-
-// ONLY FOR TEST THE RESULT IN VSCODE, THIS IS NOT NEEDED FOR LEETCODE
-export { twoSum };

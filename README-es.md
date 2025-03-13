@@ -58,19 +58,17 @@ Recursos: [Forest](https://www.forestapp.cc/) o [Pomofocus](https://pomofocus.io
      - [Figma](https://www.figma.com)
      - [AlgoMonster](https://algo.monster/) - Una herramienta muy útil no sólo para crear diagramas de flujo, sino también para comprender las mejores estructuras de datos, algoritmos y otras técnicas de resolución de problemas.
 
-   - Si sigues teniendo problemas para entender el problema, puedes recurrir a herramientas como [ChatGPT](https://chatgpt.com/) o [Gemini](https://gemini.google.com/app/). Estas pueden ayudarte a desglosar el problema y ofrecerte perspectivas alternativas, facilitando la comprensión y el planteamiento de la solución.
-
 3. ### 🧩 **Identificar el tipo de problema**
     - Categorizar el problema: ¿Está relacionado con **búsqueda**, **clasificación**, **optimización**, **recorrido de grafos**, u otro tipo común?
     - Identifique los patrones o técnicas aplicables: **Ventana deslizante**, **divide y vencerás**, **backtracking**, **dos punteros**, **programación dinámica**, etc.
 
 4. ### 🛠️ **Elegir las estructuras de datos adecuadas**
    - Seleccionar las estructuras de datos más adecuadas para el problema:
-     - matrices**, **mapas hash**, **montones**, **árboles**, **grafos**, etc.
+     - **matrices**, **mapas hash**, **montones**, **árboles**, **grafos**, etc.
    - Evaluar las complejidades de tiempo y espacio para cualquier escenario necesario ([Big O](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)).
    - [Este](https://algo.monster/flowchart) es un recurso útil para decidir qué estructura de datos, patrón o algoritmo se debe utilizar.
 
-   ![Estructuras de datos](./data-structures.png)
+   ![Estructuras de datos](./Data-structures.png)
    Crédito: https://www.softwaretestinghelp.com/data-structures-in-cpp/
 
 5. ### ✍️ **Elaborar una solución directa (pseudocódigo)**

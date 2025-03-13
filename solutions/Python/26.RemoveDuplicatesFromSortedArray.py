@@ -1,7 +1,3 @@
-# Imports not needed in Leetcode
-from typing import List
-
-
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         if len(nums) == 0:

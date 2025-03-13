@@ -1,7 +1,3 @@
-# ONLY FOR TEST THE RESULT IN VSCODE, THIS IS NOT NEEDED FOR LEETCODE
-from GenerateRandomTargetAndArray import nums, target
-
-
 class Solution:
     """
     The equation is: a + b = x; => a = current number , b = complement, x = target.
@@ -18,6 +14,3 @@ class Solution:
                 return [num_map[complement], i]
             num_map[num] = i
         return []  # In case there's no solution
-
-
-# ONLY FOR TEST THE RESULT IN VSCODE, THIS IS NOT NEEDED FOR LEETCODE
