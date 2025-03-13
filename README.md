@@ -124,6 +124,7 @@ Below is a list of Leetcode problems that I have solved. Each entry includes a l
 | #   | Title                                                                                                                 | Solution                                                        | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------- |
 | 1   | [Two Sum](https://leetcode.com/problems/Two-Sum/)                                                                     | [My Solution](./problems/1.TwoSum.md)                           | Easy       |
+| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)                                       | [My Solution](./problems/13.RomanToInteger.md)                  | Easy       |
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [My Solution](./problems/26.RemoveDuplicatesFromSortedArray.md) | Easy       |
 
 

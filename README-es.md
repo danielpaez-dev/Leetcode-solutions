@@ -122,10 +122,11 @@ He aquí un valioso recurso de un procedimiento similar: [Enlace](https://youtu.
 A continuación se muestra una lista de problemas Leetcode que ya he resuelto. Cada entrada incluye un enlace al problema, mi solución y su nivel de dificultad.
 
 
-| #   | Título                                                                                                                      | Solución                                                        | Dificultad |
-| --- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------- |
-| 1   | [Suma de Dos](https://leetcode.com/problems/Two-Sum/)                                                                       | [Mi Solución](./problems/1.TwoSum-es.md)                        | Fácil      |
-| 26  | [Eliminar duplicados de la matriz ordenada](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Mi Solución](./problems/26.RemoveDuplicatesFromSortedArray.md) | Fácil      |
+| #   | Título                                                                                                                      | Solución                                                           | Dificultad |
+| --- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------- |
+| 1   | [Suma de Dos](https://leetcode.com/problems/Two-Sum/)                                                                       | [Mi Solución](./problems/1.TwoSum-es.md)                           | Fácil      |
+| 13  | [Romana a Entero](https://leetcode.com/problems/roman-to-integer/description/)                                              | [My Solution](./problems/13.RomanToInteger-es.md)                  | Easy       |
+| 26  | [Eliminar duplicados de la matriz ordenada](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Mi Solución](./problems/26.RemoveDuplicatesFromSortedArray-es.md) | Fácil      |
 
 
 [Volver al principio](#indice)
