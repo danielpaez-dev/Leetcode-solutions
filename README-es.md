@@ -72,36 +72,44 @@ Recursos: [Forest](https://www.forestapp.cc/) o [Pomofocus](https://pomofocus.io
    Crédito: https://www.softwaretestinghelp.com/data-structures-in-cpp/
 
 5. ### ✍️ **Elaborar una solución directa (pseudocódigo)**
+
    - Desarrolla una primera solución lo más directa posible utilizando pseudocódigo. Esto sirve como base y ayuda a identificar posibles cuellos de botella y encontrar mejores soluciones más adelante.
    - Estime la complejidad temporal y espacial de este planteamiento inicial.
 
 6. ### ⚡ **Optimizar la solución**
+
    - Explora formas de mejorar la eficiencia del algoritmo:
       - ¿Puede una estructura de datos diferente reducir la complejidad?
       - Pueden eliminarse los cálculos redundantes?
    - Compara enfoques alternativos y selecciona el más eficiente en función de la complejidad temporal y espacial.
 
 7. ### 🧪 **Prueba con pseudocódigo**
+
    - Validar la solución optimizada utilizando casos de prueba en papel o en pseudocódigo.
    - Asegúrate de que maneja correctamente todos los casos límite.
 
 8. ### 🧑‍💻 **Implementar la solución en código**
+
    - Traduzca el pseudocódigo a su lenguaje de programación preferido. Leetcode le permite utilizar una gran variedad de lenguajes de programación como: C++, Java, Pyhton, Python, Python 3, C, C#, JavaScript, TypeScript, PHP, Swift, Kotlin, Dart, Go, Ruby, Scala, Rust, Racket, Erlang y Elixir.
    - Asegurar que el código es limpio, modular y sigue las mejores prácticas.
 
-9. ### 🔧 **Refactor para claridad**.
+9.  ### 🔧 **Refactor para claridad**.
+
    - Simplificar la lógica compleja y mejorar la legibilidad del código.
    - Añadir comentarios para explicar secciones clave del código.
 
 10. ### ✅ **Enviar y revisar**
+
     - Envía la solución en Leetcode y crea el markdown. Ayudará a aclarar lo que has hecho.
     - **Revisa y analiza las soluciones mejor valoradas:** No te limites a comprobar si tu solución funciona: ¡aprende activamente de los demás! Analiza las soluciones mejor valoradas para identificar enfoques alternativos, optimizaciones y mejores prácticas.
 
 11. ### 📘 **Aprender y practicar**
+
     - Estudie las mejores soluciones, centrándose en las técnicas u optimizaciones que pueda haber pasado por alto.
     - Reimplemente esas soluciones para solidificar su comprensión.
 
 12. ### 🔄 **Iterar y mejorar**
+
     - Si descubres nuevas ideas o patrones, revisa y perfecciona tu solución.
     - Sigue iterando hasta que estés seguro de que es el mejor enfoque posible.
    Esto puede tomar un buen tiempo, a veces meses o incluso años. Después de presentar tu solución, revisa siempre los enfoques de los demás para aprender de ellos y aplicar estas lecciones a éste y a futuros problemas. No hay nada de malo en estudiar la solución de otro; No te saltes este paso, es una parte clave del proceso de aprendizaje.
@@ -121,13 +129,12 @@ He aquí un valioso recurso de un procedimiento similar: [Enlace](https://youtu.
 
 A continuación se muestra una lista de problemas Leetcode que ya he resuelto. Cada entrada incluye un enlace al problema, mi solución y su nivel de dificultad.
 
-
 | #   | Título                                                                                                                      | Solución                                                           | Dificultad |
 | --- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------- |
 | 1   | [Suma de Dos](https://leetcode.com/problems/Two-Sum/)                                                                       | [Mi Solución](./problems/1.TwoSum-es.md)                           | Fácil      |
-| 13  | [Romana a Entero](https://leetcode.com/problems/roman-to-integer/description/)                                              | [My Solution](./problems/13.RomanToInteger-es.md)                  | Easy       |
+| 13  | [Romana a Entero](https://leetcode.com/problems/roman-to-integer/description/)                                              | [My Solution](./problems/13.RomanToInteger-es.md)                  | Fácil      |
+| 14  | [Prefijo común más largo](https://leetcode.com/problems/longest-common-prefix/description/)                                 | [My Solution](./problems/13.RomanToInteger-es.md)                  | Fácil      |
 | 26  | [Eliminar duplicados de la matriz ordenada](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Mi Solución](./problems/26.RemoveDuplicatesFromSortedArray-es.md) | Fácil      |
-| 27  | [Eliminar Elemento](https://leetcode.com/problems/remove-element/description/)                                              | [My Solution](./problems/27.RemoveElement-es.md)                   | Easy       |
-
+| 27  | [Eliminar Elemento](https://leetcode.com/problems/remove-element/description/)                                              | [My Solution](./problems/27.RemoveElement-es.md)                   | Fácil      |
 
 [Volver al principio](#indice)
