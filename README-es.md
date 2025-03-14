@@ -127,6 +127,7 @@ A continuación se muestra una lista de problemas Leetcode que ya he resuelto. C
 | 1   | [Suma de Dos](https://leetcode.com/problems/Two-Sum/)                                                                       | [Mi Solución](./problems/1.TwoSum-es.md)                           | Fácil      |
 | 13  | [Romana a Entero](https://leetcode.com/problems/roman-to-integer/description/)                                              | [My Solution](./problems/13.RomanToInteger-es.md)                  | Easy       |
 | 26  | [Eliminar duplicados de la matriz ordenada](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Mi Solución](./problems/26.RemoveDuplicatesFromSortedArray-es.md) | Fácil      |
+| 27  | [Eliminar Elemento](https://leetcode.com/problems/remove-element/description/)                                              | [My Solution](./problems/27.RemoveElement-es.md)                   | Easy       |
 
 
 [Volver al principio](#indice)
