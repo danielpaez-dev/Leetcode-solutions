@@ -44,77 +44,77 @@ Here's my step-by-step approach:
 
 1. ### 🧠 **Understand the Problem**
 
-   - Read the problem statement carefully, multiple times if necessary. If you're having difficulty with English, you might consider using [DeepL](https://www.deepl.com/es/translator) translator, a way better alternative than Google translator.
-   - Re-read the statement, highlighting key concepts, constraints, and requirements. Clearly identify the **inputs** and desired **outputs**.
-   - You can use the snipping tool (Windows) or any other alternatives for Mac/Linux to capture any relevant information.
-   - Simplify and break down complex problems into smaller, more manageable subproblems. Divide and conquer!
-   - A good way of knowing if you truly understand the problem is imaging that you are teaching somebody else the problems with your own words.
+   * Read the problem statement carefully, multiple times if necessary. If you're having difficulty with English, you might consider using [DeepL](https://www.deepl.com/es/translator) translator, a way better alternative than Google translator.
+   * Re-read the statement, highlighting key concepts, constraints, and requirements. Clearly identify the **inputs** and desired **outputs**.
+   * You can use the snipping tool (Windows) or any other alternatives for Mac/Linux to capture any relevant information.
+   * Simplify and break down complex problems into smaller, more manageable subproblems. Divide and conquer!
+   * A good way of knowing if you truly understand the problem is imaging that you are teaching somebody else the problems with your own words.
 
 2. ### 📝 **Break down the problem and brainstorm solutions**
 
-   - Study and analyze the provided examples to fully understand the expected behavior and create additional test cases if needed, including edge cases (e.g., empty inputs, maximum values) to deepen your understanding of the problem.
-   - Sketch a **flowchart** or other diagram type to visualize the input-output flow. These are some useful tools you may include for this taks:
-     - [Draw.io](https://www.drawio.com/)
-     - [Lucidchart](https://www.lucidchart.com/pages/)
-     - [Figma](https://www.figma.com)
-     - [AlgoMonster](https://algo.monster/) - A highly useful tool not just for creating flowcharts, but also for understanding the best data structures, algorithms, and other problem-solving techniques.
+   * Study and analyze the provided examples to fully understand the expected behavior and create additional test cases if needed, including edge cases (e.g., empty inputs, maximum values) to deepen your understanding of the problem.
+   * Sketch a **flowchart** or other diagram type to visualize the input-output flow. These are some useful tools you may include for this taks:
+     * [Draw.io](https://www.drawio.com/)
+     * [Lucidchart](https://www.lucidchart.com/pages/)
+     * [Figma](https://www.figma.com)
+     * [AlgoMonster](https://algo.monster/) - A highly useful tool not just for creating flowcharts, but also for understanding the best data structures, algorithms, and other problem-solving techniques.
 
 3. ### 🧩 **Identify the Problem Type**
 
-    - Categorize the problem: Is it related to **search**, **sorting**, **optimization**, **graph traversal**, or another common type?
-    - Identify applicable patterns or techniques: **Sliding window**, **divide and conquer**, **backtracking**, **two pointers**, **dynamic programming**, etc.
+    * Categorize the problem: Is it related to **search**, **sorting**, **optimization**, **graph traversal**, or another common type?
+    * Identify applicable patterns or techniques: **Sliding window**, **divide and conquer**, **backtracking**, **two pointers**, **dynamic programming**, etc.
 
 4. ### 🛠️ **Choose the Right Data Structures**
 
-   - Select the most suitable data structures for the problem:
-     - **Arrays**, **hash maps**, **heaps**, **trees**, **graphs**, etc.
-   - Evaluate the time and space complexities for any scenario needed ([Big O](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)).
-   - [This](https://algo.monster/flowchart) is a usefull resource for deciding wich data structure, pattern or algorithm should you use.
+   * Select the most suitable data structures for the problem:
+     * **Arrays**, **hash maps**, **heaps**, **trees**, **graphs**, etc.
+   * Evaluate the time and space complexities for any scenario needed ([Big O](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)).
+   * [This](https://algo.monster/flowchart) is a usefull resource for deciding wich data structure, pattern or algorithm should you use.
 
-   ![Data Structures](./Data-structures.png)
+   ![Data Structures](./Data*structures.png)
    Credit to: https://www.softwaretestinghelp.com/data-structures-in-cpp/
 
 5. ### ✍️ **Draft a Direct Solution (Pseudocode)**
 
-   - Develop a straightforward, initial solution using pseudocode. This serves as a baseline and helps identify potential bottlenecks and find beter solutions later.
-   - Estimate the time and space complexity of this initial approach.
+   * Develop a straightforward, initial solution using pseudocode. This serves as a baseline and helps identify potential bottlenecks and find beter solutions later.
+   * Estimate the time and space complexity of this initial approach.
 
 6. ### ⚡ **Optimize the Solution**
 
-   - Explore ways to enhance the algorithm's efficiency:
-      - Can a different data structure reduce complexity?
-      - Can redundant computations be eliminated?
-   - Compare alternative approaches and select the most efficient one based on time and space complexity.
+   * Explore ways to enhance the algorithm's efficiency:
+      * Can a different data structure reduce complexity?
+      * Can redundant computations be eliminated?
+   * Compare alternative approaches and select the most efficient one based on time and space complexity.
 
 7. ### 🧪 **Test with Pseudocode**
 
-   - Validate the optimized solution using test cases on paper or in pseudocode.
-   - Ensure it handles all edge cases correctly.
+   * Validate the optimized solution using test cases on paper or in pseudocode.
+   * Ensure it handles all edge cases correctly.
 
 8. ### 🧑‍💻 **Implement the Solution in Code**
 
-   - Translate the pseudocode into your preferred programming language. Leetcode allows you to use a vast variety of programming languages such as: C++, Java, Pyhton, Python, Python 3, C, C#, JavaScript, TypeScript, PHP, Swift, Kotlin, Dart, Go, Ruby, Scala, Rust, Racket, Erlang and Elixir.
-   - Ensure the code is clean, modular, and follows best practices.
+   * Translate the pseudocode into your preferred programming language. Leetcode allows you to use a vast variety of programming languages such as: C++, Java, Pyhton, Python, Python 3, C, C#, JavaScript, TypeScript, PHP, Swift, Kotlin, Dart, Go, Ruby, Scala, Rust, Racket, Erlang and Elixir.
+   * Ensure the code is clean, modular, and follows best practices.
 
 9.  ### 🔧 **Refactor for Clarity**
 
-   - Simplify complex logic and improve code readability.
-   - Add comments to explain key sections of the code.
+   * Simplify complex logic and improve code readability.
+   * Add comments to explain key sections of the code.
 
 10. ###  **Submit and Review**✅
 
-    - Submit the solution on Leetcode and create the markdown. It will help to clarify what you've done.
-    - **Review and analyze high-rated solutions:** Don't just check if your solution works – actively learn from others! Analyze high-rated solutions to identify alternative approaches, optimizations, and best practices.
+    * Submit the solution on Leetcode and create the markdown. It will help to clarify what you've done.
+    * **Review and analyze high-rated solutions:** Don't just check if your solution works – actively learn from others! Analyze high-rated solutions to identify alternative approaches, optimizations, and best practices.
 
 11. ### **Learn and Practice** 📘
 
-    - Study better solutions, focusing on techniques or optimizations you may have missed.
-    - Reimplement those solutions to solidify your understanding.
+    * Study better solutions, focusing on techniques or optimizations you may have missed.
+    * Reimplement those solutions to solidify your understanding.
 
 12. ### 🔄 **Iterate and Improve**
 
-    - If you discover new insights or patterns, revisit and refine your solution.
-    - Keep iterating until you're confident it's the best possible approach.
+    * If you discover new insights or patterns, revisit and refine your solution.
+    * Keep iterating until you're confident it's the best possible approach.
    Improvement takes time—sometimes months or even years. After submitting your solution, always review others' approaches to learn from them and apply these lessons to this and to future problems. There's no shame in studying someone else's solution; Don’t skip this step, it is a key part of the learning process.
 
 ---
@@ -132,12 +132,12 @@ Here is a valuable resource of a similar procedure: [Link](https://youtu.be/OTNe
 
 Below is a list of Leetcode problems that I have solved. Each entry includes a link to the problem, my solution, and its difficulty level.
 
-| #   | Title                                                                                                                 | Solution                                            | Difficulty |
-| --- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ---------- |
-| 1   | [Two Sum](https://leetcode.com/problems/Two-Sum/)                                                                     | [My Solution](./problems/1.TwoSum.md)               | Easy       |
-| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)                                       | [My Solution](./problems/13.RomanToInteger.md)      | Easy       |
-| 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)                             | [My Solution](./problems/13.RomanToInteger.md)      | Easy       |
-| 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [My Solution](./problems/14.LongestCommonPrefix.md) | Easy       |
-| 27  | [Remove Element](https://leetcode.com/problems/remove-element/description/)                                           | [My Solution](./problems/27.RemoveElement.md)       | Easy       |
+| #   | Title                                                                                                                 | Solution                                                     | Difficulty |
+| --- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
+| 1   | [Two Sum](https://leetcode.com/problems/Two-Sum/)                                                                     | [My Solution](./problems/1.TwoSum.md)                        | Easy       |
+| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)                                       | [My Solution](./problems/13.RomanToInteger.md)               | Easy       |
+| 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)                             | [My Solution](./problems/14.LongestCommonPrefix.md)          | Easy       |
+| 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [My Solution](./problems/26.RemoveDuplicatesFromSortedArray) | Easy       |
+| 27  | [Remove Element](https://leetcode.com/problems/remove-element/description/)                                           | [My Solution](./problems/27.RemoveElement.md)                | Easy       |
 
 [Back to Top](#index)
