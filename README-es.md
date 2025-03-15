@@ -138,5 +138,6 @@ A continuación se muestra una lista de problemas Leetcode que ya he resuelto. C
 | 14  | [Prefijo común más largo](https://leetcode.com/problems/longest-common-prefix/description/)                                 | [My Solution](./problems/14.LongestCommonPrefix-es.md)             | Fácil      |
 | 26  | [Eliminar duplicados de la matriz ordenada](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Mi Solución](./problems/26.RemoveDuplicatesFromSortedArray-es.md) | Fácil      |
 | 27  | [Eliminar Elemento](https://leetcode.com/problems/remove-element/description/)                                              | [My Solution](./problems/27.RemoveElement-es.md)                   | Fácil      |
+| 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                                 | [My Solution](./problems/69.Sqrt(x)-es.md)                         | Fácil      |
 
 [Volver al principio](#indice)

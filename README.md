@@ -96,12 +96,12 @@ Here's my step-by-step approach:
    * Translate the pseudocode into your preferred programming language. Leetcode allows you to use a vast variety of programming languages such as: C++, Java, Pyhton, Python, Python 3, C, C#, JavaScript, TypeScript, PHP, Swift, Kotlin, Dart, Go, Ruby, Scala, Rust, Racket, Erlang and Elixir.
    * Ensure the code is clean, modular, and follows best practices.
 
-9.  ### 🔧 **Refactor for Clarity**
+9. ### 🔧 **Refactor for Clarity**
 
    * Simplify complex logic and improve code readability.
    * Add comments to explain key sections of the code.
 
-10. ###  **Submit and Review**✅
+10. ### **Submit and Review**✅
 
     * Submit the solution on Leetcode and create the markdown. It will help to clarify what you've done.
     * **Review and analyze high-rated solutions:** Don't just check if your solution works – actively learn from others! Analyze high-rated solutions to identify alternative approaches, optimizations, and best practices.
@@ -139,5 +139,6 @@ Below is a list of Leetcode problems that I have solved. Each entry includes a l
 | 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)                             | [My Solution](./problems/14.LongestCommonPrefix.md)          | Easy       |
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [My Solution](./problems/26.RemoveDuplicatesFromSortedArray) | Easy       |
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element/description/)                                           | [My Solution](./problems/27.RemoveElement.md)                | Easy       |
+| 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                           | [My Solution](./problems/69.Sqrt(x).md)                      | Easy       |
 
 [Back to Top](#index)
