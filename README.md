@@ -132,14 +132,14 @@ Here is a valuable resource of a similar procedure: [Link](https://youtu.be/OTNe
 
 Below is a list of Leetcode problems that I have solved. Each entry includes a link to the problem, my solution, and its difficulty level.
 
-| #   | Title                                                                                                                 | Solution                                                     | Difficulty |
-| --- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
-| 1   | [Two Sum](https://leetcode.com/problems/Two-Sum/)                                                                     | [My Solution](./problems/1.TwoSum.md)                        | Easy       |
-| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)                                       | [My Solution](./problems/13.RomanToInteger.md)               | Easy       |
-| 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)                             | [My Solution](./problems/14.LongestCommonPrefix.md)          | Easy       |
-| 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [My Solution](./problems/26.RemoveDuplicatesFromSortedArray) | Easy       |
-| 27  | [Remove Element](https://leetcode.com/problems/remove-element/description/)                                           | [My Solution](./problems/27.RemoveElement.md)                | Easy       |
-| 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                           | [My Solution](./problems/69.Sqrt(x).md)                      | Easy       |
-| 2703  | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)                                                           | [My Solution](./problems/69.Sqrt(x).md)                      | Easy       |
+| #    | Title                                                                                                                 | Solution                                                        | Difficulty |
+| ---- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------- |
+| 1    | [Two Sum](https://leetcode.com/problems/Two-Sum/)                                                                     | [My Solution](./problems/1.TwoSum.md)                           | Easy       |
+| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)                                       | [My Solution](./problems/13.RomanToInteger.md)                  | Easy       |
+| 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)                             | [My Solution](./problems/14.LongestCommonPrefix.md)             | Easy       |
+| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [My Solution](./problems/26.RemoveDuplicatesFromSortedArray)    | Easy       |
+| 27   | [Remove Element](https://leetcode.com/problems/remove-element/description/)                                           | [My Solution](./problems/27.RemoveElement.md)                   | Easy       |
+| 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                           | [My Solution](./problems/69.Sqrt(x).md)                         | Easy       |
+| 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)     | [My Solution](./problems/2703.ReturnLengthOfArgumentsPassed.md) | Easy       |
 
 [Back to Top](#index)

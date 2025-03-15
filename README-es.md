@@ -131,13 +131,14 @@ He aquí un valioso recurso de un procedimiento similar: [Enlace](https://youtu.
 
 A continuación se muestra una lista de problemas Leetcode que ya he resuelto. Cada entrada incluye un enlace al problema, mi solución y su nivel de dificultad.
 
-| #   | Título                                                                                                                      | Solución                                                           | Dificultad |
-| --- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------- |
-| 1   | [Suma de Dos](https://leetcode.com/problems/Two-Sum/)                                                                       | [Mi Solución](./problems/1.TwoSum-es.md)                           | Fácil      |
-| 13  | [Romana a Entero](https://leetcode.com/problems/roman-to-integer/description/)                                              | [My Solution](./problems/13.RomanToInteger-es.md)                  | Fácil      |
-| 14  | [Prefijo común más largo](https://leetcode.com/problems/longest-common-prefix/description/)                                 | [My Solution](./problems/14.LongestCommonPrefix-es.md)             | Fácil      |
-| 26  | [Eliminar duplicados de la matriz ordenada](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Mi Solución](./problems/26.RemoveDuplicatesFromSortedArray-es.md) | Fácil      |
-| 27  | [Eliminar Elemento](https://leetcode.com/problems/remove-element/description/)                                              | [My Solution](./problems/27.RemoveElement-es.md)                   | Fácil      |
-| 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                                 | [My Solution](./problems/69.Sqrt(x)-es.md)                         | Fácil      |
+| #    | Título                                                                                                                         | Solución                                                           | Dificultad |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ---------- |
+| 1    | [Suma de Dos](https://leetcode.com/problems/Two-Sum/)                                                                          | [Mi Solución](./problems/1.TwoSum-es.md)                           | Fácil      |
+| 13   | [Romana a Entero](https://leetcode.com/problems/roman-to-integer/description/)                                                 | [Mi Solución](./problems/13.RomanToInteger-es.md)                  | Fácil      |
+| 14   | [Prefijo común más largo](https://leetcode.com/problems/longest-common-prefix/description/)                                    | [Mi Solución](./problems/14.LongestCommonPrefix-es.md)             | Fácil      |
+| 26   | [Eliminar duplicados de la matriz ordenada](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)    | [Mi Solución](./problems/26.RemoveDuplicatesFromSortedArray-es.md) | Fácil      |
+| 27   | [Eliminar Elemento](https://leetcode.com/problems/remove-element/description/)                                                 | [Mi Solución](./problems/27.RemoveElement-es.md)                   | Fácil      |
+| 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                                    | [Mi Solución](./problems/69.Sqrt(x)-es.md)                         | Fácil      |
+| 2703 | [Retornar la Longitud de los Argumentos Pasados](https://leetcode.com/problems/return-length-of-arguments-passed/description/) | [Mi Solución](./problems/2703.ReturnLengthOfArgumentsPassed-es.md) | Fácil      |
 
 [Volver al principio](#indice)
