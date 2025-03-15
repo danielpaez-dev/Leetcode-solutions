@@ -140,5 +140,6 @@ Below is a list of Leetcode problems that I have solved. Each entry includes a l
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [My Solution](./problems/26.RemoveDuplicatesFromSortedArray) | Easy       |
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element/description/)                                           | [My Solution](./problems/27.RemoveElement.md)                | Easy       |
 | 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                           | [My Solution](./problems/69.Sqrt(x).md)                      | Easy       |
+| 2703  | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)                                                           | [My Solution](./problems/69.Sqrt(x).md)                      | Easy       |
 
 [Back to Top](#index)
