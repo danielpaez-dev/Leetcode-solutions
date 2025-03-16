@@ -2,6 +2,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Estado](https://img.shields.io/badge/status-active-brightgreen)
 
 [English](./README.md) | [Español](./README-es.md)
@@ -139,6 +140,7 @@ A continuación se muestra una lista de problemas Leetcode que ya he resuelto. C
 | 26   | [Eliminar duplicados de la matriz ordenada](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)    | [Mi Solución](./problems/26.RemoveDuplicatesFromSortedArray-es.md) | Fácil      |
 | 27   | [Eliminar Elemento](https://leetcode.com/problems/remove-element/description/)                                                 | [Mi Solución](./problems/27.RemoveElement-es.md)                   | Fácil      |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                                    | [Mi Solución](./problems/69.Sqrt(x)-es.md)                         | Fácil      |
+| 175  | [Combinar Dos Tablas](https://leetcode.com/problems/combine-two-tables/description/)                                           | [Mi Solución](./problems/175.CombineTwoTables-es.md)               | Fácil      |
 | 2703 | [Retornar la Longitud de los Argumentos Pasados](https://leetcode.com/problems/return-length-of-arguments-passed/description/) | [Mi Solución](./problems/2703.ReturnLengthOfArgumentsPassed-es.md) | Fácil      |
 
 [Volver al principio](#indice)

@@ -3,6 +3,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 [English](./README.md) | [Español](./README-es.md)
@@ -140,6 +141,7 @@ Below is a list of Leetcode problems that I have solved. Each entry includes a l
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [My Solution](./problems/26.RemoveDuplicatesFromSortedArray)    | Easy       |
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/description/)                                           | [My Solution](./problems/27.RemoveElement.md)                   | Easy       |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                           | [My Solution](./problems/69.Sqrt(x).md)                         | Easy       |
+| 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)                                   | [My Solution](./problems/175.CombineTwoTables.md)               | Easy       |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)     | [My Solution](./problems/2703.ReturnLengthOfArgumentsPassed.md) | Easy       |
 
 [Back to Top](#index)
