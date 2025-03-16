@@ -142,6 +142,7 @@ Below is a list of Leetcode problems that I have solved. Each entry includes a l
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/description/)                                           | [My Solution](./problems/27.RemoveElement.md)                   | Easy       |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                           | [My Solution](./problems/69.Sqrt(x).md)                         | Easy       |
 | 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)                                   | [My Solution](./problems/175.CombineTwoTables.md)               | Easy       |
+| 704  | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                             | [My Solution](./problems/704.BinarySearch.md)                   | Easy       |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)                           | [My Solution](./problems/1929.ConcatenationOfArray.md)          | Easy       |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)     | [My Solution](./problems/2703.ReturnLengthOfArgumentsPassed.md) | Easy       |
 
