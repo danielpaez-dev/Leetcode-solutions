@@ -141,6 +141,7 @@ A continuación se muestra una lista de problemas Leetcode que ya he resuelto. C
 | 27   | [Eliminar Elemento](https://leetcode.com/problems/remove-element/description/)                                                 | [Mi Solución](./problems/27.RemoveElement-es.md)                   | Fácil      |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                                    | [Mi Solución](./problems/69.Sqrt(x)-es.md)                         | Fácil      |
 | 175  | [Combinar Dos Tablas](https://leetcode.com/problems/combine-two-tables/description/)                                           | [Mi Solución](./problems/175.CombineTwoTables-es.md)               | Fácil      |
+| 1929 | [Concatenación de un Array](https://leetcode.com/problems/concatenation-of-array/description/)                                 | [My Solution](./problems/1929.ConcatenationOfArray-es.md)          | Fácil      |
 | 2703 | [Retornar la Longitud de los Argumentos Pasados](https://leetcode.com/problems/return-length-of-arguments-passed/description/) | [Mi Solución](./problems/2703.ReturnLengthOfArgumentsPassed-es.md) | Fácil      |
 
 [Volver al principio](#indice)
