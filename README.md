@@ -141,6 +141,7 @@ Below is a list of Leetcode problems that I have solved. Each entry includes a l
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [My Solution](./problems/26.RemoveDuplicatesFromSortedArray)    | Easy       |
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/description/)                                           | [My Solution](./problems/27.RemoveElement.md)                   | Easy       |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                           | [My Solution](./problems/69.Sqrt(x).md)                         | Easy       |
+| 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                     | [My Solution](./problems/70.ClimbingStairs.md)                  | Easy       |
 | 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)                                   | [My Solution](./problems/175.CombineTwoTables.md)               | Easy       |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                             | [My Solution](./problems/704.BinarySearch.md)                   | Easy       |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)                           | [My Solution](./problems/1929.ConcatenationOfArray.md)          | Easy       |
