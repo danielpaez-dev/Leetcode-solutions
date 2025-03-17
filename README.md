@@ -144,6 +144,7 @@ Below is a list of Leetcode problems that I have solved. Each entry includes a l
 | 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)                                   | [My Solution](./problems/175.CombineTwoTables.md)               | Easy       |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                             | [My Solution](./problems/704.BinarySearch.md)                   | Easy       |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)                           | [My Solution](./problems/1929.ConcatenationOfArray.md)          | Easy       |
+| 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/)             | [My Solution](./problems/2206.DivideArrayIntoEqualPairs.md)     | Easy       |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)     | [My Solution](./problems/2703.ReturnLengthOfArgumentsPassed.md) | Easy       |
 
 [Back to Top](#index)
