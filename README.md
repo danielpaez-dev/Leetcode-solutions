@@ -133,19 +133,20 @@ Here is a valuable resource of a similar procedure: [Link](https://youtu.be/OTNe
 
 Below is a list of Leetcode problems that I have solved. Each entry includes a link to the problem, my solution, and its difficulty level.
 
-| #    | Title                                                                                                                 | Solution                                                        | Difficulty |
-| ---- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------- |
-| 1    | [Two Sum](https://leetcode.com/problems/Two-Sum/)                                                                     | [My Solution](./problems/1.TwoSum.md)                           | Easy       |
-| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)                                       | [My Solution](./problems/13.RomanToInteger.md)                  | Easy       |
-| 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)                             | [My Solution](./problems/14.LongestCommonPrefix.md)             | Easy       |
-| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [My Solution](./problems/26.RemoveDuplicatesFromSortedArray)    | Easy       |
-| 27   | [Remove Element](https://leetcode.com/problems/remove-element/description/)                                           | [My Solution](./problems/27.RemoveElement.md)                   | Easy       |
-| 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                           | [My Solution](./problems/69.Sqrt(x).md)                         | Easy       |
-| 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                     | [My Solution](./problems/70.ClimbingStairs.md)                  | Easy       |
-| 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)                                   | [My Solution](./problems/175.CombineTwoTables.md)               | Easy       |
-| 704  | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                             | [My Solution](./problems/704.BinarySearch.md)                   | Easy       |
-| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)                           | [My Solution](./problems/1929.ConcatenationOfArray.md)          | Easy       |
-| 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/)             | [My Solution](./problems/2206.DivideArrayIntoEqualPairs.md)     | Easy       |
-| 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)     | [My Solution](./problems/2703.ReturnLengthOfArgumentsPassed.md) | Easy       |
+| #    | Title                                                                                                                                               | Solution                                                                  | Difficulty |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------- |
+| 1    | [Two Sum](https://leetcode.com/problems/Two-Sum/)                                                                                                   | [My Solution](./problems/1.TwoSum.md)                                     | Easy       |
+| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)                                                                     | [My Solution](./problems/13.RomanToInteger.md)                            | Easy       |
+| 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)                                                           | [My Solution](./problems/14.LongestCommonPrefix.md)                       | Easy       |
+| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                               | [My Solution](./problems/26.RemoveDuplicatesFromSortedArray)              | Easy       |
+| 27   | [Remove Element](https://leetcode.com/problems/remove-element/description/)                                                                         | [My Solution](./problems/27.RemoveElement.md)                             | Easy       |
+| 28   | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [My Solution](./problems/28.FindTheIndexOfTheFirstOccurrenceInAString.md) | Easy       |
+| 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                                                         | [My Solution](./problems/69.Sqrt(x).md)                                   | Easy       |
+| 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                   | [My Solution](./problems/70.ClimbingStairs.md)                            | Easy       |
+| 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)                                                                 | [My Solution](./problems/175.CombineTwoTables.md)                         | Easy       |
+| 704  | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                                                           | [My Solution](./problems/704.BinarySearch.md)                             | Easy       |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)                                                         | [My Solution](./problems/1929.ConcatenationOfArray.md)                    | Easy       |
+| 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/)                                           | [My Solution](./problems/2206.DivideArrayIntoEqualPairs.md)               | Easy       |
+| 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)                                   | [My Solution](./problems/2703.ReturnLengthOfArgumentsPassed.md)           | Easy       |
 
 [Back to Top](#index)
