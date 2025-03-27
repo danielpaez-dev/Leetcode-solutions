@@ -157,6 +157,7 @@ Below is a list of Leetcode problems that I have solved. Each entry includes a l
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)                     | [My Solution](./problems/1431.KidsWithTheGreatestNumberOfCandies.md)      | Easy       |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)                                                         | [My Solution](./problems/1929.ConcatenationOfArray.md)                    | Easy       |
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/)                                           | [My Solution](./problems/2206.DivideArrayIntoEqualPairs.md)               | Easy       |
+| 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)                                           | [My Solution](./problems/2300.SuccessfulPairsOfSpellsAndPotions.md)               | Easy       |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)                                   | [My Solution](./problems/2703.ReturnLengthOfArgumentsPassed.md)           | Easy       |
 
 [Back to Top](#index)

@@ -156,6 +156,7 @@ A continuación se muestra una lista de problemas Leetcode que ya he resuelto. C
 | 1431 | [Los niños con el mayor número de caramelos](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)                        | [Mi Solución](./problems/1431.KidsWithTheGreatestNumberOfCandies-es.md)      | Fácil      |
 | 1929 | [Concatenación de un Array](https://leetcode.com/problems/concatenation-of-array/description/)                                                           | [Mi Solución](./problems/1929.ConcatenationOfArray-es.md)                    | Fácil      |
 | 2206 | [Dividir Arreglo en Pares Iguales](https://leetcode.com/problems/divide-array-into-equal-pairs/description/)                                             | [Mi Solución](./problems/2206.DivideArrayIntoEqualPairs-es.md)               | Fácil      |
+| 2300 | [Pares Exitosos De Hechizos y Pociones](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)                               | [Mi Solución](./problems/2300.SuccessfulPairsOfSpellsAndPotions-es.md)       | Fácil      |
 | 2703 | [Retornar la Longitud de los Argumentos Pasados](https://leetcode.com/problems/return-length-of-arguments-passed/description/)                           | [Mi Solución](./problems/2703.ReturnLengthOfArgumentsPassed-es.md)           | Fácil      |
 
 [Volver al principio](#indice)
