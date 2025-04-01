@@ -54,7 +54,7 @@ Here's my step-by-step approach:
 2. ### 📝 **Break down the problem and brainstorm solutions**
 
    * Study and analyze the provided examples to fully understand the expected behavior and create additional test cases if needed, including edge cases (e.g., empty inputs, maximum values) to deepen your understanding of the problem.
-   * Sketch a **flowchart** or other diagram type to visualize the input-output flow. These are some useful tools you may include for this taks:
+   * Sketch a **flowchart** or other diagram type to visualize the input-output flow if necessary. These are some useful tools you may include for this taks:
      * [Draw.io](https://www.drawio.com/)
      * [Lucidchart](https://www.lucidchart.com/pages/)
      * [Figma](https://www.figma.com)
@@ -72,7 +72,7 @@ Here's my step-by-step approach:
    * Evaluate the time and space complexities for any scenario needed ([Big O](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)).
    * [This](https://algo.monster/flowchart) is a usefull resource for deciding wich data structure, pattern or algorithm should you use.
 
-   ![Data Structures](./Data*structures.png)
+   ![Data Structures](./Data-structures.png)
    Credit to: https://www.softwaretestinghelp.com/data-structures-in-cpp/
 
 5. ### ✍️ **Draft a Direct Solution (Pseudocode)**
@@ -94,7 +94,7 @@ Here's my step-by-step approach:
 
 8. ### 🧑‍💻 **Implement the Solution in Code**
 
-   * Translate the pseudocode into your preferred programming language. Leetcode allows you to use a vast variety of programming languages such as: C++, Java, Pyhton, Python, Python 3, C, C#, JavaScript, TypeScript, PHP, Swift, Kotlin, Dart, Go, Ruby, Scala, Rust, Racket, Erlang and Elixir.
+   * Translate the pseudocode into your preferred programming language. Leetcode allows you to use a vast variety of programming languages such as: C++, Java, Pyhton, C, C#, JavaScript, TypeScript, PHP, Swift, Kotlin, Dart, Go, Ruby, Scala, Rust, Racket, Erlang and Elixir.
    * Ensure the code is clean, modular, and follows best practices.
 
 9. ### 🔧 **Refactor for Clarity**
