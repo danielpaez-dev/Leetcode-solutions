@@ -161,6 +161,7 @@ Below is a list of Leetcode problems that I have solved. Each entry includes a l
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75)           | [My Solution](./problems/1768.MergeStringsAlternately.md)                 | Easy       |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)                                                         | [My Solution](./problems/1929.ConcatenationOfArray.md)                    | Easy       |
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/)                                           | [My Solution](./problems/2206.DivideArrayIntoEqualPairs.md)               | Easy       |
+| 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)                                   | [My Solution](./problems/2215.FindTheDifferenceOfTwoArrays.md)            | Easy       |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)                         | [My Solution](./problems/2300.SuccessfulPairsOfSpellsAndPotions.md)       | Easy       |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)                                   | [My Solution](./problems/2703.ReturnLengthOfArgumentsPassed.md)           | Easy       |
 
