@@ -162,6 +162,7 @@ A continuación se muestra una lista de problemas Leetcode que ya he resuelto. C
 | 2206 | [Dividir Arreglo en Pares Iguales](https://leetcode.com/problems/divide-array-into-equal-pairs/description/)                                             | [Mi Solución](./problems/2206.DivideArrayIntoEqualPairs-es.md)               | Fácil      |
 | 2215 | [Encuentra la Diferencia de Dos Arreglos](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)                                  | [Mi Solución](./problems/2215.FindTheDifferenceOfTwoArrays-es.md)            | Fácil      |
 | 2300 | [Pares Exitosos De Hechizos y Pociones](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)                               | [Mi Solución](./problems/2300.SuccessfulPairsOfSpellsAndPotions-es.md)       | Fácil      |
+| 2390 | [Eliminando Estrellas de Un String](https://leetcode.com/problems/removing-stars-from-a-string/description/)                                             | [Mi Solución](./problems/2390.RemovingStarsFromAString-es.md)                | Fácil      |
 | 2703 | [Retornar la Longitud de los Argumentos Pasados](https://leetcode.com/problems/return-length-of-arguments-passed/description/)                           | [Mi Solución](./problems/2703.ReturnLengthOfArgumentsPassed-es.md)           | Fácil      |
 
 [Volver al principio](#indice)
